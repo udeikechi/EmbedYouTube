@@ -8,7 +8,7 @@ To embed a YouTube Playlist
 //replace YOUTUBE_PLAYLIST_ID with your actual playlist ID
 
 To embed a YouTube Video
-<lite-youtube videoid="fsBqi63VyZs" params="controls=1"></lite-youtube>
+<lite-youtube videoid="YOUTUBE_ID" params="controls=1"></lite-youtube>
 
 Ensure to properly link the JavaScript and CSS files.
 
